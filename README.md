@@ -1,1 +1,1 @@
-# simple-jquery-scripts
+simple scripts for beginners coded using jquery
